@@ -1,2 +1,3 @@
 Hello, Git and GitHub!
 This is my first change.
+This line was added directly on GitHub.
